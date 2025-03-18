@@ -21,5 +21,5 @@ docker-compose up -d
 ## Metadata
 
 |Key|Value|
-| # of 1 Hour of Improvement | 20 |
-| Learnt at | 2025-02-07 |
+| # of 1 Hour of Improvement | 3 |
+| Learnt at | 2025-01-21 |
